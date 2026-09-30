@@ -1,0 +1,8 @@
+{
+  "name": "cASINOSO",
+  "description": "A premium, professional-grade Android game interface featuring high-quality original assets and a polished, immersive user experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
